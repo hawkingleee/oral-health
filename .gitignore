@@ -1,0 +1,16 @@
+# 依赖包，巨大，不要上传
+node_modules/
+
+# vite打包产物dist文件夹
+dist/
+
+# 本地环境变量（如果以后写API密钥）
+.env
+.env.local
+
+# 编辑器缓存
+.idea/
+.vscode/
+
+# 系统文件
+.DS_Store
